@@ -1,0 +1,4 @@
+Model,Loss,Accuracy,mAP,Training Time (seconds)
+ResNet50,0.00028814,1,1,14096.77
+DenseNet121,0.00084867,1,1,13621.39
+MobileNetV3,0.00086555,0.9999,1,3229.71
