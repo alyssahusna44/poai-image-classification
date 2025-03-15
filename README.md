@@ -64,7 +64,6 @@ Download the desired model file and follow the usage instructions to integrate i
    ```bash
    python classify_image.py --model <path_to_downloaded_model> --image <path_to_image>
    ```
-s
    Replace `<path_to_downloaded_model>` with the path to your downloaded model file and `<path_to_image>` with the path to the image you want to classify.
 
 ## License
