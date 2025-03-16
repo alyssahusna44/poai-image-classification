@@ -66,6 +66,9 @@ Download the desired model file and follow the usage instructions to integrate i
    ```
    Replace `<path_to_downloaded_model>` with the path to your downloaded model file and `<path_to_image>` with the path to the image you want to classify.
 
+## Contributors
+-  Alyssa, Izz, @azwinzmr, Saza.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
