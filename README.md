@@ -66,8 +66,14 @@ Download the desired model file and follow the usage instructions to integrate i
    ```
    Replace `<path_to_downloaded_model>` with the path to your downloaded model file and `<path_to_image>` with the path to the image you want to classify.
 
-## Contributors
--  Alyssa, Izz, @azwinzmr, Saza.
+## 💡 Contributors
+- **Alyssa Husna binti Jamarizan**
+- **Izz Hakimi bin Khairul Adzha**
+- **Alya Azwin binti Zamri**
+- **Nur Sazahah binti Salauddin**
+
+📌 **Course:** ISB46703 Principle of Artificial Intelligence  
+📌 **Lecturer:** Sir Ahmad Zhafri Hariz bin Roslan
 
 ## License
 
