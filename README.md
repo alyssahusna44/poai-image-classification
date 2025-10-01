@@ -35,7 +35,7 @@ Download the desired model file and follow the usage instructions to integrate i
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/alys-source14/animal_subspecies_classification.git
+   git clone https://github.com/alys-source14/poai-image-classification.git
    cd animal_subspecies_classification
    ```
 
